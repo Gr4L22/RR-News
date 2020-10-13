@@ -131,24 +131,22 @@ a:visited{
     margin: 8px 10px 4px 0;
 }
 .list{
-    padding-left: 5px;
+    padding-left: -5px;
     font: bold;
     color: #444;
 }
 .media{
-    width: 200px;
+    width: 500px;
     height: 56px;
     margin: auto;
-    text-align: center;
 }
 .button{
     text-align: center;
     background-color: transparent;
     color: grey;
     padding: 1px;
-    margin-right: 2px;
+    margin-right: 2px grey solid;
     box-sizing: border-box;
-    border: 1px grey solid;
 
 }
 .conteiner{
